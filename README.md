@@ -116,8 +116,9 @@ python app.py
 ## Author
 Supun Wickramarachchi
 Aspiring Software & Space Engineer | Python Developer | AI Enthusiast
-GitHub Profile
-LinkedIn Profile (optional)
+
+GitHub [Profile](https://github.com/supunwickramarachchi)
+LinkedIn [Profile](https://www.linkedin.com/in/supun-wickramarachchi-763a7a174/)
 
 _#Python #OpenAI #Whisper #SpeechToText #Summarization #AI #AudioProcessing 
 #DesktopApp #TranscriptionTool #CustomTkinter #SoftwareEngineering #GitHubProjects 
